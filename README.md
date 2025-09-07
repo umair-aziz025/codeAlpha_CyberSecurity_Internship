@@ -1,4 +1,3 @@
-# codeAlpha_CyberSecurity_Internship
 Here's the consolidated guide for setting up Snort IDS on Kali, with all the steps, explanations, and code. I've also added the log rotation configuration as a valuable addition.
 
 ---
